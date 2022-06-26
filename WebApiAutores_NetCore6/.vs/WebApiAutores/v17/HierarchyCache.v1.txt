@@ -1,0 +1,287 @@
+﻿++Solution 'WebApiAutores' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:WebApiAutores.sln
+++WenApiAutores.Tests
+i:{00000000-0000-0000-0000-000000000000}:WenApiAutores.Tests
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\
+++Dependencies
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:>273
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:>478
+++Mocks
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\mocks\
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\mocks\
+++PruebasUnitarias
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\pruebasunitarias\
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\pruebasunitarias\
+++Analyzers
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:analyzers
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:analyzers
+++Frameworks
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:frameworks
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:frameworks
+++Packages
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:packages
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:packages
+++Projects
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:projects
+++AuthorizationServiceSuccessMock.cs
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\mocks\authorizationservicesuccessmock.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\mocks\authorizationservicesuccessmock.cs
+++URLHelperMock.cs
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\mocks\urlhelpermock.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\mocks\urlhelpermock.cs
+++PrimeraLetraMayusculaAttributeTests.cs
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\pruebasunitarias\primeraletramayusculaattributetests.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\pruebasunitarias\primeraletramayusculaattributetests.cs
+++RootControllerTest.cs
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\pruebasunitarias\rootcontrollertest.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\pruebasunitarias\rootcontrollertest.cs
+++Microsoft.AspNetCore.App.Analyzers
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:c:\users\smerlyn_garcia\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\microsoft.netcore.app
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\microsoft.netcore.app
+++coverlet.collector (3.1.0)
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:>494
+++Microsoft.NET.Test.Sdk (16.11.0)
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:>493
+++MSTest.TestAdapter (2.2.7)
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:>495
+++MSTest.TestFramework (2.2.10)
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:>492
+++WebApiAutores
+i:{514cf019-0b3b-4b90-88fc-d7d368bc2dea}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\bin\debug\net6.0\webapiautores.dll
+i:{00000000-0000-0000-0000-000000000000}:WebApiAutores
+++Connected Services 
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:>479
+++Properties
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\properties\
+++Controllers
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\controllers\
+++DTOs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\
+++Entidades
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\entidades\
+++Filtros
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\filtros\
+++Middlewares
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\middlewares\
+++Migrations
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\migrations\
+++Servicios
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\servicios\
+++Utilidades
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\utilidades\
+++Validaciones
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\validaciones\
+++PrimeraLetraMayusculaAttribute.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\validaciones\primeraletramayusculaattribute.cs
+++ApplicationDbContext.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\applicationdbcontext.cs
+++appsettings.json
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\appsettings.json
+++Program.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\program.cs
+++Startup.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\startup.cs
+++No service dependencies discovered
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:>480
+++launchSettings.json
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\properties\launchsettings.json
+++V1
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\controllers\v1\
+++V2
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\controllers\v2\
+++AutorCreacionDTO.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\autorcreaciondto.cs
+++AutorDTO.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\autordto.cs
+++AutorDTOConLibros.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\autordtoconlibros.cs
+++ColeccionDeRecursos.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\coleccionderecursos.cs
+++ComentarioCreacionDTO.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\comentariocreaciondto.cs
+++ComentarioDTO.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\comentariodto.cs
+++CredencialesUsuarioDTO.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\credencialesusuariodto.cs
+++DatoHATEOAS.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\datohateoas.cs
+++EditarAdminDTO.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\editaradmindto.cs
+++LibroCreacionDTO.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\librocreaciondto.cs
+++LibroDTO.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\librodto.cs
+++LibroDTOConAutores.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\librodtoconautores.cs
+++LibroPatchDTO.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\libropatchdto.cs
+++PaginacionDTO.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\paginaciondto.cs
+++Recurso.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\recurso.cs
+++RespuestaAutenticacion.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\respuestaautenticacion.cs
+++ResultadoHash.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\dtos\resultadohash.cs
+++Autor.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\entidades\autor.cs
+++AutorLibro.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\entidades\autorlibro.cs
+++Comentario.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\entidades\comentario.cs
+++Libro.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\entidades\libro.cs
+++FiltroDeExcepcion.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\filtros\filtrodeexcepcion.cs
+++LoguearRespuestaHTTPMidleware.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\middlewares\loguearrespuestahttpmidleware.cs
+++20220608023313_Inicial.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\migrations\20220608023313_inicial.cs
+++20220609032228_Comentario.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\migrations\20220609032228_comentario.cs
+++20220610162912_AutoresLibros.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\migrations\20220610162912_autoreslibros.cs
+++20220613182458_FechaPublicacionLibro.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\migrations\20220613182458_fechapublicacionlibro.cs
+++20220614143147_SistemaUsuarios.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\migrations\20220614143147_sistemausuarios.cs
+++20220614175329_ComentarioUsuario.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\migrations\20220614175329_comentariousuario.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\migrations\applicationdbcontextmodelsnapshot.cs
+++GeneradorEnlaces.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\servicios\generadorenlaces.cs
+++HashService.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\servicios\hashservice.cs
+++IServicio.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\servicios\iservicio.cs
+++AgregarParametroHATEOAS.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\utilidades\agregarparametrohateoas.cs
+++AutoMapperProfiles.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\utilidades\automapperprofiles.cs
+++HATEOASAutorFilterAttribute.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\utilidades\hateoasautorfilterattribute.cs
+++HATEOASFiltroAttribute.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\utilidades\hateoasfiltroattribute.cs
+++HttpContextExtension.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\utilidades\httpcontextextension.cs
+++IQueryableExtensions.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\utilidades\iqueryableextensions.cs
+++SwaggerAgrupaPorVersion.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\utilidades\swaggeragrupaporversion.cs
+++bin
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\bin\
+++obj
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\
+++appsettings.Development.json
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\microsoft.aspnetcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:>517
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.5)
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:>523
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.5)
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:>521
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (6.0.5)
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:>520
+++Microsoft.EntityFrameworkCore.Design (6.0.5)
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:>518
+++Microsoft.EntityFrameworkCore.Relational (6.0.5)
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:>522
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.5)
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:>516
+++Microsoft.EntityFrameworkCore.Tools (6.0.5)
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:>524
+++MSTest.TestFramework (2.2.8)
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:>515
+++Swashbuckle.AspNetCore (6.2.3)
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:>519
+++AutoresController.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\controllers\v1\autorescontroller.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\controllers\v2\autorescontroller.cs
+++ComentariosController.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\controllers\v1\comentarioscontroller.cs
+++CuentasController.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\controllers\v1\cuentascontroller.cs
+++LibrosController.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\controllers\v1\libroscontroller.cs
+++RootController.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\controllers\v1\rootcontroller.cs
+++20220608023313_Inicial.Designer.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\migrations\20220608023313_inicial.designer.cs
+++20220609032228_Comentario.Designer.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\migrations\20220609032228_comentario.designer.cs
+++20220610162912_AutoresLibros.Designer.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\migrations\20220610162912_autoreslibros.designer.cs
+++20220613182458_FechaPublicacionLibro.Designer.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\migrations\20220613182458_fechapublicacionlibro.designer.cs
+++20220614143147_SistemaUsuarios.Designer.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\migrations\20220614143147_sistemausuarios.designer.cs
+++20220614175329_ComentarioUsuario.Designer.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\migrations\20220614175329_comentariousuario.designer.cs
+++Debug
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\bin\debug\
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\debug\
+++project.assets.json
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\project.assets.json
+++project.nuget.cache
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\project.nuget.cache
+++WenApiAutores.Tests.csproj.nuget.dgspec.json
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\wenapiautores.tests.csproj.nuget.dgspec.json
+++WenApiAutores.Tests.csproj.nuget.g.props
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\wenapiautores.tests.csproj.nuget.g.props
+++WenApiAutores.Tests.csproj.nuget.g.targets
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\wenapiautores.tests.csproj.nuget.g.targets
+++net6.0
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\bin\debug\net6.0\
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\debug\net6.0\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++WenApiAutores.Tests.AssemblyInfo.cs
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\debug\net6.0\wenapiautores.tests.assemblyinfo.cs
+++WenApiAutores.Tests.AssemblyInfoInputs.cache
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\debug\net6.0\wenapiautores.tests.assemblyinfoinputs.cache
+++WenApiAutores.Tests.assets.cache
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\debug\net6.0\wenapiautores.tests.assets.cache
+++WenApiAutores.Tests.csproj.AssemblyReference.cache
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\debug\net6.0\wenapiautores.tests.csproj.assemblyreference.cache
+++WenApiAutores.Tests.csproj.CoreCompileInputs.cache
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\debug\net6.0\wenapiautores.tests.csproj.corecompileinputs.cache
+++WenApiAutores.Tests.csproj.FileListAbsolute.txt
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\debug\net6.0\wenapiautores.tests.csproj.filelistabsolute.txt
+++WenApiAutores.Tests.GeneratedMSBuildEditorConfig.editorconfig
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\obj\debug\net6.0\wenapiautores.tests.generatedmsbuildeditorconfig.editorconfig
+++CoverletSourceRootsMapping
+i:{988369e3-ecd6-476d-a1a6-d97414ec90b2}:c:\users\smerlyn_garcia\source\repos\webapiautores_netcore6-master\wenapiautores.tests\bin\debug\net6.0\coverletsourcerootsmapping
